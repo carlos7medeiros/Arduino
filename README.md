@@ -95,5 +95,5 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 
 Se tiver dúvidas, sugestões ou quiser trocar ideias:
 
-- Email: carlos.seuprojeto@email.com
+- Email: cmcarlosmedeiros63@gmail.com
 - GitHub: [@carlos7medeiros](https://github.com/carlos7medeiros)
